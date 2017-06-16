@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<MYTCL>
+  <VERSION value="1.0"/>
+  <CREATION value="02/27/11 16:31:20"/>
+  <NAME value="rdt"/>
+  <PROPERTIES>
+    <BUILD>
+      <OUTPUTFILE value="rdt.exe"/>
+      <LOCATION/>
+      <ENCODING/>
+      <ICON/>
+      <CLEANTMP/>
+    </BUILD>
+    <VFS>
+      <lib value="">
+        <tcl8.5 value="">
+          <encoding value=""/>
+        </tcl8.5>
+        <app-unknown value=""/>
+      </lib>
+    </VFS>
+    <RUN>
+      <MESSAGESOCKETPORT/>
+      <ARGS/>
+    </RUN>
+    <FILEINFO>
+      <FILEDESCRIPTION/>
+      <COMPANYNAME/>
+      <FILEVERSION/>
+      <LEGALCOPYRIGHT/>
+      <PRODUCTNAME/>
+      <PRODUCTVERSION/>
+    </FILEINFO>
+    <PACKAGES/>
+  </PROPERTIES>
+  <TYPE value="Tcl/Tk Application"/>
+  <SOURCES value="rdt.vfs/main.tcl;rdt.vfs/rdt.tcl;rdt.vfs/lib/IconSupport.tcl;rdt.vfs/lib/inThread.tcl;rdt.vfs/lib/metakit.tcl;rdt.vfs/lib/pkgFunctions.tcl;rdt.vfs/lib/pkgIndex.tcl;rdt.vfs/lib/settings.tcl;rdt.vfs/lib/tiletable.tcl;rdt.vfs/lib/treeSearch.tcl;" main=""/>
+  <BREAKPOINTS value=""/>
+  <WATCHVARIABLE/>
+</MYTCL>

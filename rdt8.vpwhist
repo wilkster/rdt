@@ -1,0 +1,44 @@
+[Global]
+CurrentProject=rdt8.vpj
+[ProjectDates]
+rdt8.vpj=20170409085531000
+[TreeExpansion2]
+- rdt8.vpj
+  - Output
+  - rdt.vfs
+    - lib
+      - ico
+      - shellicon
+      - twapi
+scroll:0
+[State]
+SCREEN: 1920 1200 526 66 1211 1033 0 0 N 0 0 0 0 885 596
+CWD: \Apps\vslick6-8\WIN
+BUFFER: BN="rdt.vfs\lib\tiletable.tcl"
+BI: MA=1 74 1  TABS=1 4  WWS=1 IWT=0 ST=0 IN=1 BW=0 US=32000 RO=0 SE=1 SN=0 BIN=0 MN=Tcl	HM=0 MF=608 TL=0 MLL=0 ASE=0 LNL=6 LCF=0 CAPS=0 E=0 ESBU2=-1
+VIEW: LN=.2892 CL=23 LE=0 CX=23 CY=16 WI=5 BI=5 HT=0 HN=0 HF=0 HC=4
+BUFFER: BN="rdt.vfs\lib\treeSearch.tcl"
+BI: MA=1 74 1  TABS=1 4  WWS=1 IWT=0 ST=0 IN=1 BW=0 US=32000 RO=0 SE=1 SN=0 BIN=0 MN=Tcl	HM=0 MF=608 TL=0 MLL=0 ASE=0 LNL=6 LCF=0 CAPS=0 E=0 ESBU2=-1
+VIEW: LN=.17727 CL=28 LE=0 CX=28 CY=21 WI=5 BI=24 HT=0 HN=0 HF=0 HC=4
+BUFFER: BN="rdt.vfs\lib\metakit.tcl"
+BI: MA=1 74 1  TABS=1 4  WWS=1 IWT=0 ST=0 IN=1 BW=0 US=32000 RO=0 SE=1 SN=0 BIN=0 MN=Tcl	HM=0 MF=608 TL=0 MLL=0 ASE=0 LNL=6 LCF=0 CAPS=0 E=0 ESBU2=-1
+VIEW: LN=.0 CL=1 LE=0 CX=1 CY=0 WI=5 BI=25 HT=0 HN=0 HF=0 HC=4
+WINDOW: 26 26 703 414 -1 -1 N  WF=0 WT=3 "Consolas,10,0,1"
+BUFFER: BN="rdt.vfs\lib\treeSearch.tcl"
+VIEW: LN=.17727 CL=28 LE=0 CX=28 CY=21 WI=143 BI=24 HT=0 HN=0 HF=0 HC=4
+WINDOW: 0 0 703 414 -1 -1 N  WF=0 WT=2 "Consolas,10,0,1"
+BUFFER: BN="rdt.vfs\lib\tiletable.tcl"
+VIEW: LN=.2892 CL=23 LE=0 CX=23 CY=16 WI=142 BI=5 HT=0 HN=0 HF=0 HC=4
+WINDOW: 52 52 703 414 -1 -1 M  WF=0 WT=1 "Consolas,10,0,1"
+BUFFER: BN="rdt.vfs\lib\metakit.tcl"
+VIEW: LN=.5845 CL=19 LE=0 CX=19 CY=19 WI=145 BI=25 HT=0 HN=0 HF=0 HC=4
+FILEHIST: 9
+test.tcl
+rdt.vfs\lib\miscTools.tcl
+rdt.vfs\rdt.tcl
+rdt.vfs\lib\pkgFunctions.tcl
+rdt.vfs\lib\twapi\pkgIndex.tcl
+rdt.vfs\lib\pkgIndex.tcl
+rdt.vfs\lib\tiletable.tcl
+rdt.vfs\lib\treeSearch.tcl
+rdt.vfs\lib\metakit.tcl

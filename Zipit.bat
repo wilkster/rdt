@@ -1,0 +1,1 @@
+zip -r rdt-full-ver.zip *.dll rdt.exe *.txt rdt.vfs\*

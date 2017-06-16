@@ -1,0 +1,3 @@
+Recent Document Tracker (RDT)
+GNU Public licence, see below for details
+http://www.gnu.org/licenses/old-licenses/gpl-2.0.html

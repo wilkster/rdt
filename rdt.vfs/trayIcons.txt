@@ -1,0 +1,21 @@
+#######
+# RDT Default Icons
+#
+array set S::Icons {
+   access     {0 {access.ico} {mdb mde accdb accd? sql}}
+   acrobat    {1 {acrobat.ico} {pdf epub mobi}}
+   excel      {1 {excel.ico} {wks csv tab xl? xls? xla? xlt? ods slk dif}}
+   coding     {0 {coding.ico} {vbs bas c cxx cpp h hpp hxx js tcl py rb}}
+   everything {0 {everything.ico} {*}}
+   folder     {1 {folder.ico} {folder}}
+   image      {0 {image.ico} {ai drw dsf eps ps svg pspimage thm cur ani bmp pdn psd png jpg pcx tif tiff gif ico icn dng nef pef dcr cr2 orf crw rw2 sr2}}
+   office     {1 {office.ico} {doc doc? xl* ppt ppt? mpp pub vsd vst rtf od? md? accd*}}
+   powerpoint {1 {powerpoint.ico} {ppt ppt? pot pot? pps ppam ppsx ppsm sldx sldm}}
+   project    {1 {project.ico} {mpp mpd mpt mpx}}
+   publisher  {0 {publisher.ico} {pub}}
+   text       {0 {text.ico} {iss readme ini cfg text txt log xml}}
+   video      {0 {video.ico} {3g2 3gp asf asx avi flv mov m4v mkv mp4 mpg rm swf vob wmv}}
+   visio      {0 {visio.ico} {vsd vss vst vdx vsx vtx}}
+   word       {1 {word.ico} {rtf wbk doc dot doc? dot?}}
+}
+
