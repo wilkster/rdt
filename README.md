@@ -1,4 +1,0 @@
-rdt
-===
-
-Recent Document Tracker
